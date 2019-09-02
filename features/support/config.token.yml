@@ -1,0 +1,8 @@
+connectionString:
+  databaseHost: "#{databaseHost}"
+  databaseUserName: "#{databaseUsername}"
+  databasePassword: "#{databasePassword}"
+
+endpoint:
+  url: "#{url}"
+  url_list: "#{url_list}" 

@@ -1,0 +1,13 @@
+{
+  "signer": {
+    "email": "priscila.formaggio+a3@clicksign.com",
+    "phone_number": "11999333445",
+    "auths": [
+      "email"
+    ],
+    "name": "Priscila Formaggio",
+    "documentation": "123.321.123-40",
+    "birthday": "1983-03-31",
+    "has_documentation": true
+  }
+}
